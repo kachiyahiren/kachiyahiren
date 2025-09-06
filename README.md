@@ -2,7 +2,7 @@
 # Hi there, I'm Hiren Kachiya 👋
 
 ### 🚀 About Me
-I'm a 3rd-year Computer Science student passionate about **Artificial Intelligence** and **Machine Learning**. I love exploring data, building intelligent models, and creating solutions that make an impact.
+I'm a 3rd-year Information Technology student passionate about **Artificial Intelligence** and **Machine Learning**. I love exploring data, building intelligent models, and creating solutions that make an impact.
 
 ### 🔍 What I Do
 - Intermediate-level **AI/ML** learner
@@ -11,7 +11,7 @@ I'm a 3rd-year Computer Science student passionate about **Artificial Intelligen
 - Working on projects involving **data analysis**, **ML algorithms**, and **predictive modeling**
 
 ### 📂 Featured Skills
-- **Programming:** Python, C++, Java (basic)
+- **Programming:** Python, C, Java (basic)
 - **AI/ML Tools:** TensorFlow, Scikit-learn, Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
 - **Databases:** MySQL (basic)
@@ -23,9 +23,9 @@ I'm a 3rd-year Computer Science student passionate about **Artificial Intelligen
 - Deployment of AI models
 
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/hiren-kachiya](#)
-- **Email:** your-email@example.com
-- **GitHub:** [github.com/hiren-kachiya](#)
+- **LinkedIn:** [www.linkedin.com/in/kachiya-hiren-b2a12a373](#)
+- **Email:** kachiyahiren5904@gmail.com
+- **GitHub:** [https://github.com/kachiyahiren](#)
 
 ### 💡 Fun Fact
 I believe AI is not just technology—it's the future that we build today!
