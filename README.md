@@ -23,9 +23,9 @@ I'm a 3rd-year Information Technology student passionate about **Artificial Inte
 - Deployment of AI models
 
 ### 📫 How to reach me:
-- **LinkedIn:** [www.linkedin.com/in/kachiya-hiren-b2a12a373](#)
+- **LinkedIn:** [www.linkedin.com/in/kachiya-hiren-b2a12a373](https://www.linkedin.com/in/kachiya-hiren-b2a12a373)
 - **Email:** kachiyahiren5904@gmail.com
-- **GitHub:** [https://github.com/kachiyahiren](#)
+- **GitHub:** [https://github.com/kachiyahiren](https://github.com/kachiyahiren)
 
 ### 💡 Fun Fact
 I believe AI is not just technology—it's the future that we build today!
